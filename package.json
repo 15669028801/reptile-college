@@ -1,0 +1,19 @@
+{
+  "name": "reptile-college",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "iconv-lite": "^0.6.2"
+  },
+  "dependencies": {
+    "bufferhelper": "^0.2.1",
+    "request": "^2.88.2"
+  }
+}
